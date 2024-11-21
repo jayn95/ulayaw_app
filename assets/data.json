@@ -1,0 +1,91 @@
+[
+    {
+      "id": "1",
+      "imagePath": "assets/images/Angry.png",
+      "soundPath": "assets/audio/galit.mp3",
+      "text": "Button 1",
+      "category": "category3",
+      "isPlaceholder": false
+    },
+    {
+      "id": "2",
+      "imagePath": "assets/images/Happy.png",
+      "soundPath": "assets/audio/masaya1.mp3",
+      "text": "Button 2",
+      "category": "category3",
+      "isPlaceholder": false
+    },
+    {
+      "id": "3",
+      "imagePath": "assets/images/Okay Ako.png",
+      "soundPath": "assets/audio/okay.mp3",
+      "text": "Button 3",
+      "category": "category3",
+      "isPlaceholder": false
+    },
+    {
+      "id": "4",
+      "imagePath": "assets/images/Sad.png",
+      "soundPath": "assets/audio/malungkot.mp3",
+      "text": "Button 4",
+      "category": "category3",
+      "isPlaceholder": false
+    },
+    {
+      "id": "5",
+      "imagePath": "assets/images/nanay.jpg",
+      "soundPath": "assets/audio/nanay.mp3",
+      "text": "Button 1",
+      "category": "category1",
+      "isPlaceholder": false
+    },
+    {
+      "id": "6",
+      "imagePath": "assets/images/tatay.jpg",
+      "soundPath": "assets/audio/tatay.mp3",
+      "text": "Button 2",
+      "category": "category1",
+      "isPlaceholder": false
+    },
+    {
+      "id": "7",
+      "imagePath": "assets/images/ate.png",
+      "soundPath": "assets/audio/ate.mp3",
+      "text": "Button 3",
+      "category": "category1",
+      "isPlaceholder": false
+    },
+    {
+      "id": "8",
+      "imagePath": "assets/images/kuya.png",
+      "soundPath": "assets/audio/kuya.mp3",
+      "text": "Button 4",
+      "category": "category1",
+      "isPlaceholder": false
+    },
+    {
+      "id": "9",
+      "imagePath": "assets/images/bunso.jpg",
+      "soundPath": "assets/audio/bunso.mp3",
+      "text": "Button 2",
+      "category": "category1",
+      "isPlaceholder": false
+    },
+    {
+      "id": "10",
+      "imagePath": "assets/images/kumain.png",
+      "soundPath": "assets/audio/kumain.mp3",
+      "text": "Button 3",
+      "category": "category2",
+      "isPlaceholder": false
+    },
+    {
+      "id": "11",
+      "imagePath": "assets/images/uminom.png",
+      "soundPath": "assets/audio/uminom.mp3",
+      "text": "Button 4",
+      "category": "category2",
+      "isPlaceholder": false
+    }
+  ]
+  
